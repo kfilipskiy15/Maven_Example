@@ -15,10 +15,5 @@ public class SecondPage {
         driver.quit();
     }
 
-    public void geta(){
-        driver.get("https://www.google.com.ua/?gfe_rd=cr&ei=mgAFWdSJMemA6ATinIWoAQ");
-    }
-    public void quite1(){
-        driver.quit();
-    }
+
 }

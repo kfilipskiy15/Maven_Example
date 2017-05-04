@@ -1,17 +1,26 @@
 import org.junit.Test;
+import org.junit.jupiter.api.AfterAll;
+import org.junit.jupiter.api.AfterEach;
 
 
 public class TestMaven  {
-    SecondPage page2 = new SecondPage();
+    Fpage page = new Fpage();
      @Test
     public void page2() throws InterruptedException{
-        page2.get();
-        page2.quite();
+        page.get();
+        page.quite();
     }
     @Test
     public void page3() throws InterruptedException{
-        page2.geta();
-        page2.quite1();
+        page.get1();
+        page.quite1();
+    }
+    @AfterEach
+    void tearDown() {
+    }
+
+    @AfterAll
+    static void tearDownAll() {
     }
 }
 

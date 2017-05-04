@@ -2,10 +2,10 @@ import org.junit.Test;
 
 public class TestMaven2{
 
-    Fpage fpage = new Fpage();
+    SecondPage page2 = new SecondPage();
     @Test
     public void Page1() throws InterruptedException{
-        fpage.get1();
-        fpage.quite1();
+        page2.get();
+        page2.quite();
     }
 }
