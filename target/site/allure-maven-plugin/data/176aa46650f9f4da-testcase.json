@@ -1,11 +1,11 @@
 {
-  "uid" : "268134e41d053bc0",
-  "name" : "page2",
-  "title" : "Page 2",
+  "uid" : "176aa46650f9f4da",
+  "name" : "Page1",
+  "title" : "Page 1",
   "time" : {
-    "start" : 1494164344465,
-    "stop" : 1494164347862,
-    "duration" : 3397
+    "start" : 1494183298467,
+    "stop" : 1494183301573,
+    "duration" : 3106
   },
   "summary" : {
     "attachments" : 0,
@@ -16,9 +16,9 @@
   "severity" : "NORMAL",
   "status" : "PASSED",
   "suite" : {
-    "uid" : "784c6aa9b593237a",
-    "name" : "TestMaven",
-    "title" : "Test maven"
+    "uid" : "21cb994622514af9",
+    "name" : "TestMaven2",
+    "title" : "Test maven 2"
   },
   "steps" : [ ],
   "attachments" : [ ],
@@ -26,7 +26,7 @@
   "testIds" : [ ],
   "labels" : [ {
     "name" : "suite-name",
-    "value" : "TestMaven"
+    "value" : "TestMaven2"
   }, {
     "name" : "framework",
     "value" : "JUnit"
@@ -41,7 +41,7 @@
     "value" : null
   }, {
     "name" : "thread",
-    "value" : "2404@DESKTOP-2DLNS6F.main(1)"
+    "value" : "5676@DESKTOP-2DLNS6F.main(1)"
   } ],
   "parameters" : [ ]
 }

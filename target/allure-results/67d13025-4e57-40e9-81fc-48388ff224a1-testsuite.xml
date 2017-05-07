@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ns2:test-suite start="1494164344445" stop="1494164360581" version="1.5.2" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+<ns2:test-suite start="1494183283269" stop="1494183301573" version="1.5.2" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
     <name>TestMaven</name>
     <test-cases>
-        <test-case start="1494164344465" stop="1494164347862" status="passed">
+        <test-case start="1494183283297" stop="1494183287119" status="passed">
             <name>page2</name>
             <steps/>
             <attachments/>
             <labels>
                 <label name="host" value="DESKTOP-2DLNS6F"/>
-                <label name="thread" value="2404@DESKTOP-2DLNS6F.main(1)"/>
+                <label name="thread" value="5676@DESKTOP-2DLNS6F.main(1)"/>
             </labels>
         </test-case>
-        <test-case start="1494164352080" stop="1494164354207" status="passed">
+        <test-case start="1494183291710" stop="1494183294354" status="passed">
             <name>page3</name>
             <steps/>
             <attachments/>
             <labels>
                 <label name="host" value="DESKTOP-2DLNS6F"/>
-                <label name="thread" value="2404@DESKTOP-2DLNS6F.main(1)"/>
+                <label name="thread" value="5676@DESKTOP-2DLNS6F.main(1)"/>
             </labels>
         </test-case>
     </test-cases>

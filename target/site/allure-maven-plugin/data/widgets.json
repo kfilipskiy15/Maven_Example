@@ -11,9 +11,9 @@
         "broken" : 0
       },
       "time" : {
-        "start" : 1494164344465,
-        "stop" : 1494164360581,
-        "duration" : 16116
+        "start" : 1494183283297,
+        "stop" : 1494183301573,
+        "duration" : 18276
       }
     },
     "defects" : {
@@ -23,7 +23,7 @@
     "xunit" : {
       "totalCount" : 2,
       "items" : [ {
-        "uid" : "784c6aa9b593237a",
+        "uid" : "34f6e0b536aff1c5",
         "title" : "Test maven",
         "statistic" : {
           "total" : 2,
@@ -34,7 +34,7 @@
           "broken" : 0
         }
       }, {
-        "uid" : "de75a499900a79ae",
+        "uid" : "21cb994622514af9",
         "title" : "Test maven 2",
         "statistic" : {
           "total" : 1,

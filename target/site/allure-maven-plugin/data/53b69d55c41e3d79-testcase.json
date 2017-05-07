@@ -1,11 +1,11 @@
 {
-  "uid" : "e35100b5755da7c2",
+  "uid" : "53b69d55c41e3d79",
   "name" : "page3",
   "title" : "Page 3",
   "time" : {
-    "start" : 1494164352080,
-    "stop" : 1494164354207,
-    "duration" : 2127
+    "start" : 1494183291710,
+    "stop" : 1494183294354,
+    "duration" : 2644
   },
   "summary" : {
     "attachments" : 0,
@@ -16,7 +16,7 @@
   "severity" : "NORMAL",
   "status" : "PASSED",
   "suite" : {
-    "uid" : "784c6aa9b593237a",
+    "uid" : "34f6e0b536aff1c5",
     "name" : "TestMaven",
     "title" : "Test maven"
   },
@@ -41,7 +41,7 @@
     "value" : null
   }, {
     "name" : "thread",
-    "value" : "2404@DESKTOP-2DLNS6F.main(1)"
+    "value" : "5676@DESKTOP-2DLNS6F.main(1)"
   } ],
   "parameters" : [ ]
 }
