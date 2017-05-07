@@ -1,0 +1,79 @@
+{
+  "time" : {
+    "start" : 1494164344465,
+    "stop" : 1494164360581,
+    "duration" : 16116
+  },
+  "testSuites" : [ {
+    "uid" : "de75a499900a79ae",
+    "name" : "TestMaven2",
+    "title" : "Test maven 2",
+    "time" : {
+      "start" : 1494164358080,
+      "stop" : 1494164360581,
+      "duration" : 2501
+    },
+    "statistic" : {
+      "total" : 1,
+      "passed" : 1,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "1b5e229cd48a31af",
+      "name" : "Page1",
+      "title" : "Page 1",
+      "time" : {
+        "start" : 1494164358080,
+        "stop" : 1494164360581,
+        "duration" : 2501
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    } ]
+  }, {
+    "uid" : "784c6aa9b593237a",
+    "name" : "TestMaven",
+    "title" : "Test maven",
+    "time" : {
+      "start" : 1494164344465,
+      "stop" : 1494164354207,
+      "duration" : 9742
+    },
+    "statistic" : {
+      "total" : 2,
+      "passed" : 2,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "268134e41d053bc0",
+      "name" : "page2",
+      "title" : "Page 2",
+      "time" : {
+        "start" : 1494164344465,
+        "stop" : 1494164347862,
+        "duration" : 3397
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "e35100b5755da7c2",
+      "name" : "page3",
+      "title" : "Page 3",
+      "time" : {
+        "start" : 1494164352080,
+        "stop" : 1494164354207,
+        "duration" : 2127
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    } ]
+  } ]
+}

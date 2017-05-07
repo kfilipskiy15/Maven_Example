@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1494164358079" stop="1494164360769" version="1.5.2" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>TestMaven2</name>
+    <test-cases>
+        <test-case start="1494164358080" stop="1494164360581" status="passed">
+            <name>Page1</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-2DLNS6F"/>
+                <label name="thread" value="2404@DESKTOP-2DLNS6F.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="JUnit"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

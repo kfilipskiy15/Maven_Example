@@ -1,0 +1,47 @@
+{
+  "uid" : "268134e41d053bc0",
+  "name" : "page2",
+  "title" : "Page 2",
+  "time" : {
+    "start" : 1494164344465,
+    "stop" : 1494164347862,
+    "duration" : 3397
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "784c6aa9b593237a",
+    "name" : "TestMaven",
+    "title" : "Test maven"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "suite-name",
+    "value" : "TestMaven"
+  }, {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-2DLNS6F"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "thread",
+    "value" : "2404@DESKTOP-2DLNS6F.main(1)"
+  } ],
+  "parameters" : [ ]
+}
